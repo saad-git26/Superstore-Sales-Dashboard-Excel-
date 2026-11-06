@@ -66,3 +66,8 @@ Superstore-Sales-Dashboard/
 - The dropdown filters work like slicers, built with data validation and formulas.
 - Dataset: Sample Superstore (a commonly used practice dataset).
 
+## Author
+**Saad Shaikh**
+[LinkedIn](https://www.linkedin.com/in/saad-s-062baa286) | [GitHub](https://github.com/saad-git26)
+
+READ ME AND DESCRIPTION IS MADE WITH AI HELP
